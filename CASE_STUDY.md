@@ -108,5 +108,7 @@ Now that we have our completed CSV, we can bring this into Calc or Excel to crea
 ## Links
 
 [Interactive Dashboard](https://public.tableau.com/app/profile/ethan.hall7240/viz/medicarepercapita/Dashboard1)
+
 [SQL](https://github.com/Blargelzz/healthcare-medicare-utilization/tree/main/sql)
+
 [Clean Data Model](https://github.com/Blargelzz/healthcare-medicare-utilization/blob/main/reports/medicare_per_capita_final_fancy.ods)
