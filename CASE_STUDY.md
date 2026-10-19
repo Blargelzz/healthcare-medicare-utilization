@@ -103,11 +103,11 @@ COPY (
 
 ## Gaining Clear Insights
 
-Now that we have our completed CSV, we can bring this into Calc or Excel to create a readable spreadsheet or bring it into Tableau to create a data visualization dashboard. When looking at this data, we begin to see that California, while having the highest spending total, sits below average when it comes to amount spent per resident. We begin to see higher spending per resident in the eastern United States, with the highest spending per resident present in New York, Connecticut, Kentucky, and Pennsylvania.
+Now that we have our completed CSV, we can bring this into Calc or Excel to create a readable spreadsheet or bring it into Tableau to create a data visualization dashboard. When looking at this data, we begin to see that California, while having the highest spending total, sits below average when it comes to the amount spent per resident. We begin to see higher spending per resident in the eastern United States, with the highest spending per resident present in New York, Connecticut, Kentucky, and Pennsylvania. Using our visualizations in Tableau, we can see that Kentucky and West Virginia have 6.4 claims per resident, leading to high spending per resident. Washington, D.C. is an interesting outlier with a low population and low claim volume at 2.74 claims per resident, though it ranks in the top 10 for per-resident spending due to its high prescription costs. Places like New York and Connecticut have a mixture of above-average claim frequency and drug costs, leading them into the top two spots for spending per resident.
 
 ## Links
 
-[Interactive Dashboard](https://public.tableau.com/app/profile/ethan.hall7240/viz/medicarepercapita/Dashboard1)
+[Interactive Dashboard](https://public.tableau.com/shared/NWMJFPF9Y?:display_count=n&:origin=viz_share_link)
 
 [SQL](https://github.com/Blargelzz/healthcare-medicare-utilization/tree/main/sql)
 
