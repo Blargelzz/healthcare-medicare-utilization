@@ -104,3 +104,9 @@ COPY (
 ## Gaining Clear Insights
 
 Now that we have our completed CSV, we can bring this into Calc or Excel to create a readable spreadsheet or bring it into Tableau to create a data visualization dashboard. When looking at this data, we begin to see that California, while having the highest spending total, sits below average when it comes to amount spent per resident. We begin to see higher spending per resident in the eastern United States, with the highest spending per resident present in New York, Connecticut, Kentucky, and Pennsylvania.
+
+## Links
+
+[Interactive Dashboard](https://public.tableau.com/app/profile/ethan.hall7240/viz/medicarepercapita/Dashboard1)
+[SQL](https://github.com/Blargelzz/healthcare-medicare-utilization/tree/main/sql)
+[Clean Data Model](https://github.com/Blargelzz/healthcare-medicare-utilization/blob/main/reports/medicare_per_capita_final_fancy.ods)
