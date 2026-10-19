@@ -17,7 +17,7 @@ An end-to-end data engineering and analytics pipeline built to ingest 28M+ feder
 ## Core Analytical Findings
 
 1. **Appalachian Utilization Volume:** Normalizing by population reveals that **Kentucky ($870.89/resident)** and **West Virginia ($847.00/resident)** dominate national spending due to extreme prescription volume intensity reaching **6.4 claims per resident** (nearly double California at 3.29).
-2. **Washington D.C. Specialty Outlier:** Ranks in the national top 10 for per-capita spend ($800.52) despite having the low prescription volume  (2.74 claims/resident), driven by a national peak average prescription cost of **$291.73/claim**.
+2. **Washington D.C. Specialty Outlier:** Ranks in the national top 10 for per-capita spend ($800.52) despite having low prescription volume (2.74 claims/resident), driven by a national peak average prescription cost of **$291.73/claim**.
 3. **Northeast Compounding Pressure:** **New York ($908.64)** and **Connecticut ($883.02)** lead overall national per-capita spending due to a combination of high claims frequency (\~4.7 claims/resident) and elevated average claim costs (\~$190/claim).
 
 ## Repository Structure
